@@ -28,6 +28,7 @@ def scrape_data(url, pages):
     # Configuration Selenium
     service = Service(ChromeDriverManager().install())
     options = webdriver.ChromeOptions()
+    options.add_argument("--headless")  # Mode sans interface graphique
     options.add_argument("--disable-blink-features=AutomationControlled") # Contourner le blocage de Chrome
     options.add_argument("--disable-infobars") # Désactiver les infobars
     options.add_argument("--disable-extensions") # Désactiver les extensions
