@@ -8,6 +8,5 @@ webdriver
 time
 random
 WebDriverWait
-selenium.webdriver.support 
 expected_conditions
 ChromeDriverManager
