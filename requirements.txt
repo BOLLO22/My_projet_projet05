@@ -5,5 +5,3 @@ seaborn
 matplotlib
 streamlit
 webdriver
-time
-random
