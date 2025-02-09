@@ -7,4 +7,3 @@ streamlit
 webdriver
 time
 random
-WebDriverWait
