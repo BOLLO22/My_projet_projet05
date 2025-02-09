@@ -7,11 +7,7 @@ streamlit
 webdriver
 time
 random
-selenium.webdriver.common.by 
-By 
-selenium.webdriver.support.ui 
 WebDriverWait
 selenium.webdriver.support 
 expected_conditions
-webdriver_manager.chrome 
 ChromeDriverManager
