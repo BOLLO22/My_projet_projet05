@@ -17,7 +17,7 @@ import random
 st.markdown("<h1 style='text-align: center; color: white;'>Projet Numéro 05 Data Expat-Dakar</h1>", unsafe_allow_html=True)
 st.markdown("""
 This app allows you to scrape and analyze data on properties from Expat-Dakar
-* **Python libraries:** base64, pandas, streamlit, beautifulsoup
+* **Python libraries:** pandas, streamlit, selenium, webdriver_manager, matplotlib, seaborn, time, random
 * **Data source:** [Expat-Dakar](https://www.expat-dakar.com/).
 """)
 
